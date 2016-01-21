@@ -1,6 +1,6 @@
 import org.scalatest._
 
-class SetSpec extends FlatSpec with Matchers{
+class TokenSpec extends FlatSpec with Matchers{
 
     val sample = "The quick brown fox jumps over the lazy dog".split(" ")
 
